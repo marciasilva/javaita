@@ -15,6 +15,6 @@ import pizza.TestPizza;
  */
 @RunWith(Suite.class)
 @SuiteClasses({TestCarrinhoDeCompras.class, TestPizza.class})
-public class AllTests {
+public class AllTestsPizza {
 
 }
